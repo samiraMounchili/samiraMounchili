@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Samira
 
-<!--
-**samiraMounchili/samiraMounchili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc FinTech & Business Analytics student building practical projects across **data analytics, financial analysis and fintech**.
 
-Here are some ideas to get you started:
+## Career Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am developing my profile for roles such as:
+
+- Data Analyst
+- Financial Analyst
+- Financial Data Analyst
+- FP&A Analyst
+- Business Analyst
+- FinTech Analyst
+
+## Skills I'm Building
+
+### Data & Analytics
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Visualisation
+- Statistics
+
+### Finance
+- Financial Statement Analysis
+- Ratio Analysis
+- Budgeting & Forecasting
+- Financial Modelling
+- Corporate Finance
+- Valuation
+
+## Featured Projects
+
+### FinPulse AI
+AI-powered fintech prototype focused on financial scam awareness, investment education and interactive financial literacy.
+
+**Live Demo:** https://finpulse-ai-dqho.onrender.com/
+
+### AI EdTech Learning Analytics
+Machine learning and Flask-based learning analytics prototype for predicting learner completion risk and providing personalised learning support.
+
+## Currently Working On
+
+- Improving Excel and SQL
+- Building finance and analytics portfolio projects
+- Developing Power BI and financial modelling skills
+- Preparing for graduate analyst roles
+
+## Tech
+
+`Python` `SQL` `Excel` `Power BI` `Flask` `Git` `GitHub`
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/
+samira-mounchili123
+
