@@ -40,7 +40,7 @@ AI-powered fintech prototype focused on financial scam awareness, investment edu
 
 ### AI EdTech Learning Analytics
 Machine learning and Flask-based learning analytics prototype for predicting learner completion risk and providing personalised learning support.
-
+**Live Demo:**  https://ai-edtech-learning-analytics.onrender.com
 ## Currently Working On
 
 - Improving Excel and SQL
